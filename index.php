@@ -38,7 +38,7 @@ session_start([
 <br>
 <div class="row vertical-align">
     <div class="col-sm-4"><div style="background-color: aquamarine; height: 300px">Курс валют</div></div>
-    <div class="col-sm-4"><div style="background-color: bisque; height: 300px">Новости<br><!--<button type="button" class="btn btn-info" data-toggle="modal" data-target="#newsModal">Создать новость</button>--><br><br><a href="news.php?id=1">Новости временно доступны тут</a></div></div>
+    <div class="col-sm-4"><div style="background-color: bisque; height: 300px">Новости<br><button type="button" class="btn btn-info" data-toggle="modal" data-target="#newsModal">Создать новость</button><br><br><a href="news.php?id=1">Новости временно доступны тут</a></div></div>
     <div class="col-sm-4"><div style="background-color: darkgray; height: 300px">Акции</div></div>
 </div>
 
