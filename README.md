@@ -1,10 +1,10 @@
-#Vulnerable web app
+# Vulnerable web app
 
 Vulnerable web app for security beginners 
 
-#Deploy:
+# Deploy:
 
-**DB root password = root **
+* *DB root password = root **
 
 mysql console:
 ```SQL
