@@ -4,7 +4,7 @@ Vulnerable web app for security beginners
 
 # Deploy:
 
-* *DB root password = root **
+* DB root password = root
 
 mysql console:
 ```SQL
